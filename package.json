@@ -1,0 +1,15 @@
+{
+  "name": "ikea_stock",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "check": "node src/check.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^6.4.0",
+    "nodemailer": "^6.4.17"
+  }
+}
